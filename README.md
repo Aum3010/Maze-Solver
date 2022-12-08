@@ -1,2 +1,2 @@
 # Maze-Solver
-Maze-Solver using C
+Maze-Solver by Backtracking and Image generation using C Language
